@@ -1,0 +1,105 @@
+body {
+			font-family: 'Open Sans', sans-serif;
+			background-color: #f1f1f1;
+		}
+		
+		.nav {
+			margin-bottom: 50px;
+		}
+
+		@media (min-width: 1600px) {
+			.container {
+				width: 1240px;
+			}
+			
+		}
+		.main {
+			background-color: #fff;
+			padding: 20px 20px 40px;
+		}
+
+		.col-md-7 img {
+			width: 100%;
+			margin-top: 40px;
+		}
+
+		h1 {
+			font-size: 42px;
+			color: #231f20;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 800;
+			margin-bottom: 60px;
+		}
+
+		h4 {
+			font-size: 21px;
+			color: #707270;
+			font-weight: 700;
+		}
+
+		ol {
+			padding-left: 15px;
+		}
+
+		ol li {
+			margin-bottom: 5px;
+		}
+
+		.intro {
+			padding-bottom: 100px;
+			margin-bottom: 40px;
+			border-bottom: 4px solid #231f20;
+		}
+
+		.form-section {
+			background-color: #f1f1f1;
+			padding: 20px;
+			width: 100%;
+			border: solid 1px #e4e4e4;
+		}
+
+		section {
+			margin: 40px 0;
+		}
+		
+		section h3 {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 700;
+			font-size: 18px;
+			color: #fff;
+			display: inline-block;
+			padding: 10px 20px;
+			width: 100%;
+			margin: 0;
+		}
+	
+		input {
+			margin: 0 0 10px;
+			height: 30px;
+			padding: 5px;
+			width: 100%;
+		}
+
+		label {
+			margin: 10px 0 5px;
+			padding: 0;
+		}
+
+		.submit {
+			margin-top: 20px;
+			width: 100px;
+			height: 40px;
+			display: block;
+			border: 0;
+			color: #fff;
+		}
+
+		.submit:hover {
+			background-color: #231f20;
+		}
+
+		footer {
+			background-color: #231f20;
+			padding: 20px 0 15px;
+			color: #ccc;
+		}
