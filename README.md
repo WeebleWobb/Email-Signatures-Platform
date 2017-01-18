@@ -1,4 +1,5 @@
-Synchrony Email Signature
+<H1>Synchrony Email Signature</H1>
+</hr>
 
 This micro site allows Synchrony employees to easily create and copy their email signatures to their desired email client.
 
